@@ -34,3 +34,6 @@ console.log("</ul>")
 
 console.log(konutKredileri)
 
+//var, let, const
+var sayi1=10
+console.log(sayi1) 
